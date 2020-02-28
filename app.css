@@ -1,3 +1,24 @@
 body, html, #container {
     height: 100%;
 }
+#header{
+    color: white;
+}
+
+#header{
+background: black;
+
+}
+
+
+#body{
+    background:gray;
+}
+
+#footer{
+    background:gray;
+}
+
+#body_content{
+    background:gray;
+}
